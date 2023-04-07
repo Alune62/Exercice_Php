@@ -1,0 +1,6 @@
+Les changements apportés incluent :
+
+Suppression de la variable $i et de la variable $nbMoutons car elles ne sont pas utilisées.
+Utilisation de l'opérateur d'addition raccourcie (+=) pour la somme des valeurs des moutons.
+Utilisation de la fonction count() pour obtenir le nombre de moutons dans le tableau.
+Suppression des lignes en double pour le calcul de la moyenne après avoir ajouté les 100 moutons aléatoires.
